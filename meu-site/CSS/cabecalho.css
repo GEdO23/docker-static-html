@@ -1,0 +1,23 @@
+#cabecalho {
+    padding: 20px 50px;
+}
+
+#cabecalho__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+#cabecalho__nav__links {
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.cabecalho__nav__links__link {
+    color: #232323;
+    font-weight: 700;
+}
