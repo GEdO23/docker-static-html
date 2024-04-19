@@ -5,7 +5,7 @@
 
 **Comando para gerar a Imagem:**
 
-``docker build -t rm99632-nginx:1.0.0``
+``docker build -t rm99632-nginx:1.0.0 .``
 
 **Comando para rodar o Container:**
 
