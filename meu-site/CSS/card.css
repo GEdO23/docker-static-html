@@ -46,6 +46,7 @@
     font-size: 0.875rem;
     transition: .2s ease-in-out;
     justify-self: left;
+    text-decoration: none;
 }
 
 .card__button:hover {
