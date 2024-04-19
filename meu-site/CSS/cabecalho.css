@@ -19,5 +19,6 @@
 
 .cabecalho__nav__links__link {
     color: #232323;
+    text-decoration: none;
     font-weight: 700;
 }
